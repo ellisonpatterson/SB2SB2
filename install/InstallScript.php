@@ -16,7 +16,7 @@ define('DB_HOST', '');  // The host/ip to your SQL server
 define('DB_USER', '');	// The username to connect with
 define('DB_PASS', '');	// The password
 define('DB_NAME', '');  // Database name	
-define('DB_PREFIX', 'op'); // The table prefix for SourceBans
+define('DB_PREFIX', 'sb'); // The table prefix for SourceBans
 define('DB_PORT','3306'); // The SQL port (Default: 3306)
 
 class Install_ImportScript
